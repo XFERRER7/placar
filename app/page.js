@@ -34,7 +34,7 @@ export default function Home() {
           backdropFilter: "blur(10px)",
         }}
       >
-        <Team name="Giovanna" score={4} color="#4ade80" />
+        <Team name="Giovanna" score={5} color="#4ade80" />
 
         <span
           style={{
